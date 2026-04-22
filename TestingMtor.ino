@@ -3,7 +3,7 @@
 *     Example 2 - Receiver Code
 *                
 * by Dejan Nedelkovski, www.HowToMechatronics.com
-* 
+* edited by: Eamon Quill
 * Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 */
 
